@@ -1,0 +1,93 @@
+/* The styles of my CV document */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+   
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    border: 20px solid #024873;
+    padding: 25px;
+    
+    height: inherit;
+    
+    
+}
+
+.parent-flex{
+   display: flex;
+   padding: 10px;
+   justify-content: center;
+   font-size: 2rem;
+   width: 100%;
+   flex-wrap: nowrap;
+   
+}
+.child-flex{
+    display: flex;
+    padding: 10px  ;
+    justify-content: left;
+    flex-flow: row;
+    width: 100%;
+    flex-wrap: nowrap;
+    text-align: left;
+    font-size: 14px;
+    
+}
+
+.column-flex{
+    display: flex;
+    flex-flow: column;
+    text-align: initial;
+    align-items: flex-end;
+    padding: 10px 0;
+    width: 90%;
+    
+    
+    
+}
+
+
+h3{
+    display: flex;
+    
+    border: 5px solid #d74f25;
+    padding: 10px;
+    width: 95%;
+    background-color: bisque;
+    
+    justify-content: center;
+    
+}
+
+ul{
+    
+    text-anchor: middle;
+    text-align: justify;
+}
+
+@media (min-width:768px) and(max-width: 800px) {
+    body{
+        background-color: yellow;  
+    }
+    .child-flex{
+        flex-wrap: wrap;
+        width: 658.9px;
+    }
+
+}
+
+@media (min-width:801px){
+    body{
+        width: 900px;
+    }
+}
+
+@media (max-width: 360px){
+    column-flex{
+        width: 70%;
+        
+    }
+}
+
