@@ -30,9 +30,7 @@
               <li>Preparation of lesson plans and notes.</li>
               <li>Coaching of students.</li>
               <li>Continuously researching better ways to help students learn and</br> apply knowledge gained</li>
-              <li>Volunteering for community services – through health awareness</br> programs, girl child education and computer literacy.</li>
-              
-              
+              <li>Volunteering for community services – through health awareness</br> programs, girl child education and computer literacy.</li>      
       </ul>
   
   </p>
