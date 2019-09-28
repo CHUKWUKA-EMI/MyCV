@@ -9,26 +9,7 @@
           </div>
   <h3>CAREER SUMMARY</h3>
   <P>Electronic engineering graduate with experience as an electrical/electronic</br> engineer intern for a major agro processing firm, seeking entry level role in an</br> innovative organisation. Possess the analytical abilities and technical skills</br> necessary to support the delivery of innovative solutions. Solid understanding</br> of electrical engineering theory, industry-standard circuit design,</br> testing tools and computer systems. </P>
-
-  <h3>SOFT SKILLS</h3>
-  <p>
-      <ul>
-          <li>Ability to learn quickly, think critically and independently on any issue in</br> order to arrive at a workable and profitable course of action.</li>
-          <li>High numerical and analytical proficiency, with keen attention to details.</li>
-          <li>Strong teamwork, negotiation and leadership ability coupled with proven</br> excellence in oral and written communication.</li>
-          <li>Great capacity to handle pressure sensibly and maintain focus in the face</br> of demanding situations while keeping focus on achieving the desired goal.</li>
-      </ul>
-  </p>
-  <h3>TECHNICAL SKILLS</h3>
-  <P>
-      <ul>
-          <li>Excellent technical abilities, strong communication skills, strong analytical</br> abilities, and project management skills.</li>
-          <li>Excellent knowledge of computer hardware and software.</li>
-          <li>Good knowledge of electronic systems design and troubleshooting tools.</li>
-          <li>Proficient in the use of Microsoft Office Suite (Word, Excel and PowerPoint).</li>
-          <li>Intermediate level skill in Programming Language:<em>Python</em> and <em>Java.</em></li>
-          </ul>
-          </P>
+  
   <h3>EDUCATIONAL BACKGROUND</h3>
   <P><strong>University of Nigeria, Nsukka. 							[2012-2017]</strong></br>
           Bachelor of Engineering [B.Engr.] in Electronic Engineering.</br>
@@ -39,7 +20,8 @@
           West Africa Senior Secondary School Certificate [WASSCE]
           
           </p>
-  <h3>WORK EXPERIENCE</h3>
+          
+   <h3>WORK EXPERIENCE</h3>
   <p><strong>National Youths Service Corps (NYSC) - Hampos Int’l College, Kaduna.</br>
           Physics and Further Mathematics Teacher		             July 2018 – June 2019
       
@@ -69,6 +51,28 @@
               
       </ul>
   </p>
+
+  <h3>SOFT SKILLS</h3>
+  <p>
+      <ul>
+          <li>Ability to learn quickly, think critically and independently on any issue in</br> order to arrive at a workable and profitable course of action.</li>
+          <li>High numerical and analytical proficiency, with keen attention to details.</li>
+          <li>Strong teamwork, negotiation and leadership ability coupled with proven</br> excellence in oral and written communication.</li>
+          <li>Great capacity to handle pressure sensibly and maintain focus in the face</br> of demanding situations while keeping focus on achieving the desired goal.</li>
+      </ul>
+  </p>
+  <h3>TECHNICAL SKILLS</h3>
+  <P>
+      <ul>
+          <li>Excellent technical abilities, strong communication skills, strong analytical</br> abilities, and project management skills.</li>
+          <li>Excellent knowledge of computer hardware and software.</li>
+          <li>Good knowledge of electronic systems design and troubleshooting tools.</li>
+          <li>Proficient in the use of Microsoft Office Suite (Word, Excel and PowerPoint).</li>
+          <li>Intermediate level skill in Programming Language:<em>Python</em> and <em>Java.</em></li>
+          </ul>
+          </P>
+  
+  
   <h3>INTERESTS</h3>
   <p>
       <ul>
